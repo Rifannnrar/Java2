@@ -1,2 +1,2 @@
 # Java2
-My java code semester 3
+My java code semester 3 [ inheritance ]
